@@ -1,0 +1,973 @@
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kolenča Vas", "de": "Kolenzdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Poljane", "de": "Pölland"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kropa", "de": "Kropp"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stanišče", "de": "Stanische"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rakek", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prilesje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bukova Gora Srednja", "de": "Mitterbuchberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krka", "de": "Gurkdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Spodnji Log", "de": "Unterlag"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Otavec", "de": "Otawitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lipovec", "de": "Lipowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lipljene Male", "de": "Kleinliplein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podpeč", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rovišče", "de": "Rowische"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrbovo", "de": "Werbowo"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Korita", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hinje", "de": "Hinnach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tlake", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sebenje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Knežak", "de": "Grafenbrunn"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trboje", "de": "Terboje"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bukovica", "de": "Bukowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Janče", "de": "Jantschberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grmada", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lahovo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Goričica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Luža", "de": "Lacken"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dobravica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Posavec", "de": "Posautz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Primskovo", "de": "Primskau"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Povodje", "de": "Poudie"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Borovec", "de": "Morobitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podgrad", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Opale", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stražišče", "de": "Straschische"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zabava", "de": "Sabawa"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lazi Dolenji", "de": "Niedergereuth"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kramplje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kuželj", "de": "Kuschel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dobrova", "de": "Dobrawa"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "zzzzz", "de": "Lienfeld"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Breg", "de": "Ranndorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Breznica", "de": "Bresnitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Konca", "de": "Ort"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sodevec", "de": "Schöpfenlag"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Studenec", "de": "Bründl"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Razdrto", "de": "Präwald"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bistričica", "de": "Wisterschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Goričane", "de": "Görtschach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Leskovec", "de": "Haselbach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mihovo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kozjek", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vipava", "de": "Wippach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Radovlje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pušeča Vas", "de": "Puschendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gabrije", "de": "Gaberje"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dole", "de": "Mariathal"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jelovec", "de": "Jelowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žabja Vas", "de": "Froschdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Plešivica", "de": "Pleschiwitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Drtija", "de": "Drittai"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trnje", "de": "Dorn"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Cerknica", "de": "Zirknitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Unec", "de": "Maunitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Babina Gora", "de": "Babnagora"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrhpolje", "de": "Oberfeld"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lipljene Velike", "de": "Großliplein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Družinska Vas", "de": "Gesindeldorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bistra", "de": "Freudenthal"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "zzzzz", "de": "Reichenau"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sora", "de": "Zaier"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Skaručna", "de": "Skarutschna"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gradež", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Retje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Matoz", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jesenice", "de": "Jessenitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Herinja Vas", "de": "Hereindorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ihan", "de": "Jauchen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Paka", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podolnica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podmolnik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lipe", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gaber Veliki", "de": "Großgaber"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lukovek", "de": "Lukouk"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krško", "de": "Gurkfeld"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jasen", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Suha", "de": "Zauchen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Preddvor", "de": "Höflein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Idrija", "de": "Idria"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Briga", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Novi Lazi", "de": "Hinterberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kožljek", "de": "Koschlek"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žukovo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rovte", "de": "Gereuth"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žirovnica", "de": "Scheraunitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zalog", "de": "Salog"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stehanja Vas", "de": "Stockendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kot", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Šalka Vas", "de": "Schalkendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Parje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Motnik", "de": "Möttnig"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vič", "de": "Waitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podkoren", "de": "Wurzen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lukovica", "de": "Lukowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Drnovo", "de": "Dernowo"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zadlog", "de": "Sadlog"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dobe", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Srnjak", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Klanec", "de": "Klanz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Buje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Seničica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Slamnik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kamnji Potok", "de": "Steinbach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Logatec Dolenji", "de": "Unterloitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Iška", "de": "Eisdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Velika Ravan", "de": "Welkaraun"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Juršiče", "de": "Jurschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Predoslje", "de": "Predassel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bogu", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Skopice", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Preloge", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podbukovje", "de": "Podbukuje"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krnica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Col", "de": "Zoll"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zasip", "de": "Asp"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Radovljica", "de": "Radmannsdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stara Cerkev", "de": "Mitterdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grabče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Koritnica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Studeno", "de": "Kaltenfeld"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bodešice", "de": "Wodeschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Seč", "de": "Setsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trebeljevo", "de": "Trebeleu"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mošnja", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sela", "de": "Seele"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Klopce", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Petrova Vas", "de": "Petersdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Muljava", "de": "Mulau"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Volavlje", "de": "Wolaule"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Planina", "de": "Alpen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tomačevo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trava", "de": "Obergraß"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mlino", "de": "Seebach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prežganje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Skril", "de": "Skrill"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Koseze", "de": "Kosese"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jablana", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dečina", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stara Lipa", "de": "Altlinden"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrbica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kilovče", "de": "Killenberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grahovo", "de": "Grachowo"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Suhadole", "de": "Suchadole"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Roje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Straža", "de": "Strascha"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zagorica", "de": "Auritz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Blagovica", "de": "Glogowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Obločice", "de": "Obloschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Druljevek", "de": "Drulouk"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Loka Velika", "de": "Großlack"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lože", "de": "Losche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bukovje", "de": "Bukuje"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kaplja Vas", "de": "Kaplawas"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tribuče", "de": "Tributsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Adergaz", "de": "Adergaß"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hrastje", "de": "Hrastie"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prapretno", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Polom", "de": "Ebenthal"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dobrniče", "de": "Döbernik"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vadiče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rakitnik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Suhor", "de": "Suchor"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žabnica", "de": "Safnitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dvorska Vas", "de": "Höflern"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Boden", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Konec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podljuben Veliki", "de": "Großpodluben"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Popovo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Znojile", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Fužine, auch Bela Peč", "de": "Weißenfels"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kompolje", "de": "Kompole"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lesno Brdo", "de": "Hölzenegg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Slatnik", "de": "Slatenegg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrabče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podlož", "de": "Podlaas"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Črnuče", "de": "Tschernutsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Strelac", "de": "Schützendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Damelj", "de": "Damel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Strmica", "de": "Stermza"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sap", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dolje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rašica", "de": "Uranschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bitnje", "de": "Wittnach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Reteče", "de": "Retetsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zagradec", "de": "Sagratz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Draga", "de": "Suchen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lašče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Metule", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vojsko", "de": "Woiska"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rodohova Vas", "de": "Rodockendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vimol", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Horjul", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podgorje", "de": "Podgier"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prelesje", "de": "Gerdenschlag"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Selce", "de": "Selze"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tanča Gora", "de": "Tanzberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mokrice", "de": "Mokritz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrh", "de": "Schweinberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Medvedjek", "de": "Bärenheim"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Feld", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bakovnik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prečna", "de": "Pretschna"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Topolec", "de": "Topoltz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zemon Gorenji", "de": "Obersemon"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Slatina", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Suhorje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rodine", "de": "Rodein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Osilnica", "de": "Ossiunitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Topla Reber Gorenja", "de": "Oberwarmberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Cesta", "de": "Winkel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Savica", "de": "Sawitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lipa", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podstenje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lisec", "de": "Lisitzberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prelog", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stranje", "de": "Straindorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dobovec", "de": "Dobouz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dobliče", "de": "Döblitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rupa", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pance", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ljubno", "de": "Laufen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sava", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lučna", "de": "Lutschna"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kaplanovo", "de": "Kaplanau"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bistrica", "de": "Feistritz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Močvirje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Koče", "de": "Kotschen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zažar", "de": "Schaschar"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Padež", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Korenitka", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Okrog", "de": "Ukrog"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Poljane Velike", "de": "Großpölland"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mozelj", "de": "Obermösel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pirašica", "de": "Piraschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Topli Vrh", "de": "Warmberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rudnik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Polhovica", "de": "Pohouza"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mirna Peč", "de": "Hönigstein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrd", "de": "Werd"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lese Velike", "de": "Großlesse"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podnart", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Potoki", "de": "Bach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žalina", "de": "Schalna"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Strahomer", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Paloviče", "de": "Palowitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ladja", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Predjama", "de": "Luegg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Breže", "de": "Friesach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vovče", "de": "Woutsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kostanjevica", "de": "Landstraß"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žalje", "de": "Sallenberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Predgrad", "de": "Vornschloß"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Križ", "de": "Kreuzdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podturen", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lancovo", "de": "Lanzowo"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jakovica", "de": "Jakobowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ogulin", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Semič", "de": "Semitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ostrog", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ambrus", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Topla Reber", "de": "Unterwarmberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žaga Stara", "de": "Altsag"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mokronog Gorenji", "de": "Obernassenfuß"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grintovec", "de": "Grintowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Besnica Spodnja", "de": "Unterweßnitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Orehek", "de": "Nußdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prem", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Peščenik", "de": "Sandberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stranska Vas", "de": "Seitendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrba", "de": "Felbern"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Orlaka", "de": "Harlacken"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brezje", "de": "Bresie"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrzdenec", "de": "Schönbrunn"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trnovica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hrastnik", "de": "Hrastnigg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Erzelj", "de": "Ersel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rudolfovo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kralje", "de": "Wertatsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podjele", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kremenca", "de": "Kremenza"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Srakovlje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Šiška Spodnja", "de": "Unterschischka"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Visoko", "de": "Wisoko"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Homec", "de": "Homez"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Maverl", "de": "Maierle"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Opčina", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bezuljak", "de": "Wesulak"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vernek", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jablanica", "de": "Jablanitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Globočica", "de": "Globoschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Smednik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Radovica", "de": "Radowitza"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jelše", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Godič", "de": "Goditsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gradišče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Doline", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Čemšenik", "de": "Scherenbüchel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žlebe", "de": "Schlebe"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Obrh", "de": "Oberch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Studor", "de": "Studorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Glince", "de": "Gleinitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bevke", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ježica", "de": "Jeschza"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vodice", "de": "Wodize"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Črna", "de": "Tscherna"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lašiče", "de": "Laschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jelša", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lašče Velike", "de": "Großlaschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mahniče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dobeno", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sinadole", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zali Log", "de": "Salilog"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Telčji Vrh", "de": "Kälbersberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trpčane", "de": "Terptschane"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Železniki", "de": "Eisnern"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kozaršče", "de": "Kosarsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krašnja", "de": "Kraxen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trstenik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrtača", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Reva", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mali Log", "de": "Kleinlack"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prestranek", "de": "Pröstranegg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krašnji Vrh", "de": "Kraschenberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Praše", "de": "Prasche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Štrukljeva Vas", "de": "Strukeldorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Goveji Dol", "de": "Gowidul"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zabreznica", "de": "Sabresnitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Puc", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Loke", "de": "Lokach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ovčjak", "de": "Schäflein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podutik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Papeži", "de": "Papesch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ravnik", "de": "Raunik"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Otoče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rožnik", "de": "Rosenbach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mirna", "de": "Neudegg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ortnek", "de": "Ortenegg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Apnenik", "de": "Kalchberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podcerkev", "de": "Podzirku"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dvorje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zvirče", "de": "Swirtschach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sv. Duh", "de": "Heiligengeist"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Selšček", "de": "Seuschtschek"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Godešiče", "de": "Godeschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mavčiče", "de": "Mautschitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ravne", "de": "Eben"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mokronog", "de": "Nassenfuß"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Otok", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Omota", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bobovek", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gozd, auch Rovte", "de": "Wald"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Borje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hraše", "de": "Hrasche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rakovec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pijava Gorica", "de": "Piautzbüchel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Migovska Gora", "de": "Migouzberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podlipoglav", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Beričevo", "de": "Förtschach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brglez", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zameško", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Radovina", "de": "Rothwein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jelševec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kokrica", "de": "Kokritz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Na Pogledu", "de": "Hohenberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stara Loka", "de": "Altlack"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Padova", "de": "Padua"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Morava", "de": "Mrauen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dobravice", "de": "Dobrawitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Cerkvišče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Matenja Vas", "de": "Mautersdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rog", "de": "Hornwald"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zbure", "de": "Swur"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Karlovica", "de": "Karlowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Oslica", "de": "Osselze"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Raka", "de": "Arch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vreme Gorenje", "de": "Oberurem"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rečica", "de": "Retschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zaklanec", "de": "Saklanz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dol", "de": "Thal"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Turjak", "de": "Auersperg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mlaka", "de": "Moos"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Črni Potok", "de": "Schwarzenbach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrhovo", "de": "Werchou"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Senožet", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Radeče", "de": "Ratschach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zemona", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jeršiče", "de": "Jerschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Laze", "de": "Lase"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hrušica", "de": "Birnbaum"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zapotok", "de": "Sapotok"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Temenica", "de": "Themenitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Irča Vas", "de": "Irtschdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mače", "de": "Katzendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dragomelj", "de": "Dragomel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Duplje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gorjuše", "de": "Goriusch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dol, auch Vrhpolje", "de": "Lustthal"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zaboršt", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Nadgorica", "de": "Nadgoritz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Godovič", "de": "Godowitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vinice", "de": "Weinitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grčarice", "de": "Masern"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mihovec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dob", "de": "Aich"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Forme", "de": "Formach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Razbore", "de": "Reswure"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Martinjak", "de": "Martinsbach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prevale", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Idrija Spodnja, auch Pri Fari", "de": "Unteridria"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gabrovščica", "de": "Gabrowschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bukovšica", "de": "Clementis, Sct."}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Peven", "de": "Pewen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jarček", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rakitnica", "de": "Rakitnitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dane", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mladica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lavrovec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ribno", "de": "Reifen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Orlje", "de": "Orle"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lipsenj", "de": "Lipsein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kremenica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "zzzzz", "de": "Reinthal"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kanji Dol", "de": "Kanidol"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bitinje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Glogovica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brdo Malo", "de": "Kleinberdo"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hotavlje", "de": "Hotaule"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mavče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrbičje", "de": "Werbitsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Klenik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grabrovec", "de": "Grabrouz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brlog", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prigorica", "de": "Büchelsdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podzemelj", "de": "Podsemel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vinji Vrh", "de": "Weinberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Strmec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Šenčur", "de": "Georgen, Sct."}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stari Trg", "de": "Altenmarkt"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Voklo", "de": "Hülben"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Videm", "de": "Widem"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brezovica", "de": "Bresowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Narin", "de": "Narein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Koprivnik", "de": "Nesselthal"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mošnje", "de": "Möschnach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Boršt", "de": "Forst"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Občica", "de": "Krapflern"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kašelj Gorenji", "de": "Oberkaschel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zatičina", "de": "Sittich"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Občina, auch Pljuska", "de": "Pluska"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Leskovica", "de": "Leskouza"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Melce", "de": "Mewze"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jablan", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Čelje", "de": "Tschelje"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Terbija", "de": "Terbia"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grosuplje", "de": "Großlupp"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Koritnice", "de": "Koritnize"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Koroška Vas", "de": "Karndorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Reber", "de": "Leiten"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Velesovo", "de": "Michelstetten"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kranj", "de": "Krainburg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zaplana", "de": "Saplana"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trn Veliki", "de": "Großdorn"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hlebce", "de": "Hlebitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žiri", "de": "Sairach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Škofja Loka", "de": "Bischoflack"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Logatec Gorenji, auch Kirchdorf - Cerkovska Vas", "de": "Oberloitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Davča", "de": "Dautscha"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sodražica", "de": "Soderschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dragomer", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Konj", "de": "Roßbüchel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Reka", "de": "Gozd"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brod", "de": "Überfuhr"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vaše", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gotenica", "de": "Göttenitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Luče", "de": "Leitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brinje", "de": "Landol"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mekine", "de": "Münkendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gabrovnica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krška Vas", "de": "Munkendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Želimlje", "de": "Schelimle"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "zzzzz", "de": "Küchlern"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Malence", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tomišelj", "de": "Tomischl"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Čurile", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrhnika", "de": "Oberlaibach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Močile", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hrašče", "de": "Hraschtsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Artmanja Vas", "de": "Hartmannsdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ležeče Gorenje", "de": "Oberlesetsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Budanje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kuteževo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Adlešici", "de": "Adleschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Učak", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kupljenik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bleč Vrh", "de": "Feldsberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kal", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bregana", "de": "Bergana"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žuniče", "de": "Schunitsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Belčj Vrh", "de": "Weltschberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dravlje", "de": "Draule"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Perovo", "de": "Perau"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Straževo", "de": "Sterscheu"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Javor", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Smokuč", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mojstrana", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Butoraj", "de": "Wutarei"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dobrunje", "de": "Dobruine"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rogatec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Visoče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lož", "de": "Laas"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Peče", "de": "Petsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zgoša", "de": "Sgosch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Breznik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Goriče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pšenična Polica", "de": "Niederfeld"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Nemška Vas", "de": "Deutschdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Virmaše", "de": "Ermern"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tržič", "de": "Neumarktl"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pobrežje", "de": "Freithurn"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brdo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podjelše", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Smuka", "de": "Langenthon"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mršeča Vas", "de": "Merschetschendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zala", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rača", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Škrjance", "de": "Lerchenfeld"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kočevje", "de": "Gottschee"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stara Vas", "de": "Altendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žigmarice", "de": "Schigmaritz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Nemška Loka", "de": "Unterdeutschau"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hruševje", "de": "Hruschewje"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "zzzzz", "de": "Mooswald"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Harije", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grobišče", "de": "Grobsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Luže", "de": "Lausach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ribnica", "de": "Reifnitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sturje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kotredež", "de": "Kotredesch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Huje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Petrina", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grible", "de": "Grüble"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jereka", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podgrič", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Selo", "de": "Zellach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Smolenja Vas", "de": "Pechdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podtabor", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Goče", "de": "Gotsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zamostec", "de": "Brückel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Turkova Draga Dolenja", "de": "Unterfliegendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tatinec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kolovrat", "de": "Kolowrat"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Plano", "de": "Planu"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grič", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Famlje", "de": "Famle"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gabrovo", "de": "Gabrou"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Osojnik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dolenjci", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gršeča Vas", "de": "Gerschetschendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Knežja Lipa", "de": "Graflinden"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žiganja Vas", "de": "Siegersdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brčice", "de": "Wertschitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zagorje", "de": "Sagor"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Preže", "de": "Pröse"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bela Cerkev", "de": "Weißkirchen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Velče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jesenovo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hudenje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grebenc", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Golek", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Senožeče", "de": "Senosetsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pivka", "de": "Piuka"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Cerklje", "de": "Zirklach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jakovce", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Čatež", "de": "Tschatesch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Srednji Vrh", "de": "Mitterberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hrib", "de": "Obergörtschach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Škocjan", "de": "Cantian, Sct."}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sajevec", "de": "Sajowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lozice", "de": "Losize"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Duplica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lahinja", "de": "Lachina"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kostel", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jelovica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Slavina", "de": "Slawina"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trnovec", "de": "Tiefenreuther"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Češnjica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gmajnica", "de": "Gmainza"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Šmihel", "de": "Michael, Sct."}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Knej", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pokojnica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prevalje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Predtrg", "de": "Vormarkt"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Goriča Vas", "de": "Weikersdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ivanje Selo", "de": "Eibenschuß"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Nemški Rovt", "de": "Deutschgereuth"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Loka", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Polhov Gradec", "de": "Billichgratz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Finkovo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zajelše", "de": "Sajeusche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tunjice", "de": "Theinitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kočevska Reka", "de": "Rieg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jurjevica", "de": "Jurjowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Osterc", "de": "Osterz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brodi", "de": "Wrodech"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Griže", "de": "Grische"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "zzzzz", "de": "Hohenegg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ponikve", "de": "Ponique"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Cerovec", "de": "Zerouz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kamni Vrh", "de": "Steinberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zavratec", "de": "Sauratz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žeje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Šmarata", "de": "Margarethen, Sct."}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grenec", "de": "Grenze"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mrzla Luža", "de": "Kaltlacken"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Smolnik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stražberg", "de": "Straßberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Šiška Zgornja", "de": "Oberschischka"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zilje", "de": "Sile"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ravno", "de": "Rauno"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Štrekljevec", "de": "Streklowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Delnice", "de": "Dewenze"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Britof", "de": "Freithof"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Velika Vas", "de": "Großdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sv. Križ", "de": "Heiligenkreuz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Soteska", "de": "Ainöd"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podreče", "de": "Podretsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Litija", "de": "Littai"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Drskovče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brezovo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Beli Kamen", "de": "Weißenstein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gomila", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Udmat", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brda", "de": "Berdach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kamnik", "de": "Stein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Staje", "de": "Staidorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lesce", "de": "Lees"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dolenčice", "de": "Dolentschize"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trzin", "de": "Tersain"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Begunje", "de": "Wigaun"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Težka Voda Gorenja", "de": "Oberschwerenbach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ratje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Polica", "de": "Politz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podpreska", "de": "Merleinsrauth"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Golnik", "de": "Gallenfels"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Preska", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Črni Vrh", "de": "Schwarzenberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Veliki Vrh", "de": "Großberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pirniče Gorenje", "de": "Oberpirnitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Moše", "de": "Mosche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ustje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hrenovice", "de": "Hrenowitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Graben", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stara Fužina", "de": "Althammer"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Iška Loka", "de": "Igglack"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rove", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Repnje", "de": "Repne"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kandrše", "de": "Kandersche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ubelsko Malo", "de": "Kleinubelsko"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Briše", "de": "Wrische"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Borovnica", "de": "Franzdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pristava", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jarše", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Cegelnica", "de": "Zegounza"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Savlje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žvirče", "de": "Schwörz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vir", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dedni Dol", "de": "Dedendol"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podraga", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brest", "de": "Wröst"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pristavica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Peč", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrbovec", "de": "Tiefenthal"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Postojna", "de": "Adelsberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Moste", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Čirčiče", "de": "Zirtschitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kolovec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kandija", "de": "Kandia"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rafolče", "de": "Rafoltsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gradac", "de": "Gradaz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Otok Mali", "de": "Kleinotok"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podlog Veliki", "de": "Großpodlog"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Topol", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Koritno", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Brezova Reber", "de": "Birkenleiten"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Komolce", "de": "Komutzen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Poreber", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Naklo", "de": "Kalce"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dragovanja Vas", "de": "Dragoweinsdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vače", "de": "Waatsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Črnomelj", "de": "Tschernembl"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Belo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dolšake", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jugorje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Butajnova", "de": "Wutainowa"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gorenje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Železno", "de": "Eisendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podlog", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Višnje", "de": "Wischne"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Štalcarji", "de": "Stalzern"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Valpča Vas", "de": "Amtmannsdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kozljevo", "de": "Koslewz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mačji Dol", "de": "Katzenthal"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Osredek", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jerova Vas", "de": "Irrdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prebačevo", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ledeča Vas", "de": "Ladendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Smerje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Šenturška Gora", "de": "Ulrichsberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ulaka", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ravan", "de": "Četena"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zapuže", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kleče", "de": "Kletsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podgorica", "de": "Podgoritz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gradiško", "de": "Gradischko"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Laknice Dolenje", "de": "Unterlaknitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Goniče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sad", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bled, auch Grad", "de": "Veldes"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lokve", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Volčji Potok", "de": "Wolfsbach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rebro", "de": "Reber"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pudob", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Preloka", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kovor", "de": "Kaier"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kranjska Gora", "de": "Kronau"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Štajer", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Golobinjak", "de": "Taubenberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Drašiči", "de": "Draschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Liberga", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hrovača", "de": "Krobatsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zajasovnik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bereča Vas", "de": "Beretschendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podkraj", "de": "Podkrai"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Orehovica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Radoviči", "de": "Radowitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kopačnica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Besnica Zgornja", "de": "Oberweßnitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lazina", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podboršt", "de": "Podborscht"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Nevlje", "de": "Neul"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dolenja Vas", "de": "Doleinawas"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Poljšica", "de": "Pogelschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Olševek", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dragatuš", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krupa", "de": "Krupp"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Slivnica Dolenja", "de": "Unterschleinitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jurka Vas", "de": "Jurkendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kamenica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Drča", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lazec", "de": "Gehack"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krnice", "de": "Kernitze"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prapreče", "de": "Prapretsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stelnik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Črešnjice", "de": "Kerschdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Viševek", "de": "Uscheuk"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Nomen", "de": "Neuming"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Selca", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Polje", "de": "Großpule"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kašča", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pekel", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bičje", "de": "Witschje"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pungert", "de": "Baumgarten"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rožnepelj", "de": "Rosenbüchel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "zzzzz", "de": "Schönberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podklanec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gradec", "de": "Graz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Blate", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Travnik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bernik Spodnji", "de": "Unterfernig"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Suhor Dolenji", "de": "Untersuchor"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Radoše", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Log", "de": "Auen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Log Gorenji", "de": "Oberlog"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mirke", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tominje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krvava Peč", "de": "Blutigenstein"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pijavice", "de": "Piauze"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rakovnik", "de": "Kroisenbach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hudo", "de": "Pösendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kresnice", "de": "Kreßnitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grad", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podhom", "de": "Buchheim"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tržišče", "de": "Terschische"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ivanja Vas", "de": "Iwansdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Belsko", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Fužine", "de": "Fuschine"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podlipa", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dovje", "de": "Lengenfeld"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podreber", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hotedražica", "de": "Hotederschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krašice", "de": "Kraschze"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dedča Vas", "de": "Dedendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Markovec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Račeva", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Njivice", "de": "Niwitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krmačina", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Puštal", "de": "Burgstall"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sostro", "de": "Sostru"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tabor", "de": "Schillertabor"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hotemaže", "de": "Hotemasch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Goliše", "de": "Goltsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pečnik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dunaj", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Predgriže", "de": "Predgrische"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mala Vas", "de": "Kleindorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kozice", "de": "Kositzen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "zzzzz", "de": "Thurn"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pšata", "de": "Beischeid"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Prevoje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podklance", "de": "Podklanz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sušica", "de": "Schuschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Videm Mali", "de": "Kleinweiden"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Metlika", "de": "Möttling"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stob", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Fara", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Železnica", "de": "Eisenhof"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Benete", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hom", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Preserje", "de": "Presser"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Turkova Draga Gorenja", "de": "Oberfliegendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Beč", "de": "Butsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podturn", "de": "Unterthurn"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gorica", "de": "Goritz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dvor", "de": "Hof"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grmovlje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Čekovnik", "de": "Tschekaunik"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Plavž", "de": "Bleiofen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jezero", "de": "Seedorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lipica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Nova Gora", "de": "Neuberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Javorovica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Radomlje", "de": "Radomle"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trnovo", "de": "Dornegg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Pirče", "de": "Pirtsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Čeplje", "de": "Tscheplach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kukovo", "de": "Kukendorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Slap", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Srobotnik", "de": "Guttenberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zagon", "de": "Sagon"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lipnica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Hudi Vrh", "de": "Bösenberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bič", "de": "Fitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dobje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrhovlje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trojane", "de": "Trojana"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vižmarje", "de": "Wischmarje"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rudolfovo, auch Novo Mesto", "de": "Rudolfswert"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zalisec", "de": "Salais"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Goba", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zabrdo", "de": "Sabrdam"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jedinščina", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Cerovo", "de": "Zerou"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kostanj", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Studenčice", "de": "Studentschitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Primostek", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zagozdac", "de": "Unterwald"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Maline", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kranjče", "de": "Kraintsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Javornik", "de": "Jauerburg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Košica", "de": "Koschza"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Smrečje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bojanja Vas", "de": "Bojansdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trata", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zaloka", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Šmartno", "de": "Martin, Sct."}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zagrad", "de": "Sagrad"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bušinja Vas", "de": "Wuschinsdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žabjek", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Voglje", "de": "Winklern"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Medvode", "de": "Zwischenwässern"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Božjakovo", "de": "Boschiakou"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dolenje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Babino Polje", "de": "Babenfeld"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zaloke", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dvor, auch Št. Janž", "de": "Johannisthal"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Nova Vas", "de": "Neudorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kokra", "de": "Kanker"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gaber", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gorenja Vas", "de": "Oberdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rob", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mala Gora", "de": "Malgern"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Drežnik", "de": "Dresnik"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vas", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zminec", "de": "Sminz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gosteče", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dolina", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Orehovlje", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Jama", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Potok", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Plemberg", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kaptol", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Trebelno", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zavoden", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dolina Velika", "de": "Großdolina"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podgora", "de": "Unterberg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Šembije", "de": "Schembije"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zavrh", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žlebič", "de": "Schlebitsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Podstenica", "de": "Steinwand"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Toplice", "de": "Töplitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Izlake", "de": "Islak"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rova", "de": "Rau"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Šutna", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bloke Velike", "de": "Großoblak"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dobec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Deleči Vrh", "de": "Laubbüchel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Čepno", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Mihelja Vas", "de": "Michelsdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Krtina", "de": "Kertina"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Javorje", "de": "Afriach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ponova Vas", "de": "Pöndorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stožice", "de": "Stoschze"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Čevica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Medvedica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sopotnica", "de": "Sapotnica"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Otok Veliki", "de": "Großotok"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Smlednik", "de": "Flödnig"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Kamna Gorica", "de": "Steinbüchl"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Slamna Vas", "de": "Sleindorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gora", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bučka", "de": "Butschka"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grčarske Ravne", "de": "Masereben"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Bač", "de": "Batsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Martinja Vas", "de": "Martinsdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Grm", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ledine", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rakitna", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zemon Dolenji", "de": "Untersemon"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Drenik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ig Gorenji", "de": "Oberigg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rožanec", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vrhnika Stara", "de": "Altoberlaibach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Cikava", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Noše", "de": "Noschach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Koreno", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rodica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zduše", "de": "Sdusch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Nova Lipa", "de": "Neulinden"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Dražka Vas", "de": "Dratschdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Moravče", "de": "Moräutsch"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Slape", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Žaga", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zabreznik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Višnja Gora", "de": "Weixelburg"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Gabrče", "de": "Gabertsche"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Zadre", "de": "Saderz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Belica", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Stari Log", "de": "Altlag"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rakulik", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Leše", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Nadlesek", "de": "Nadlesk"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Sinja Gorica", "de": "Scheinbüchel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Depala Vas", "de": "Depelsdorf"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Golo Brdo", "de": "Golowerdu"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Ljubljana", "de": "Laibach"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Lopata", "de": "Schaufel"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Neverke", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Peteline", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Rosalince", "de": "Rosalnitz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Struge", "de": "Struge"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Tacenj", "de": "Tazen"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Torka", "de": "zzzzz"}}
+{"corpus": ["DezelniZborKranjski"], "names": {"sl": "Vino", "de": "Vinu"}}
